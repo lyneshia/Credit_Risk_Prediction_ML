@@ -166,20 +166,6 @@ Run the application
 streamlit run app/main.py
 ```
 
----
-
-## 📷 Application Preview
-
-Add screenshots of your Streamlit application here.
-
-Example:
-
-```
-images/homepage.png
-images/result.png
-```
-
----
 
 ## 📌 Future Improvements
 
@@ -196,8 +182,8 @@ images/result.png
 
 **Lyneshia Correa**
 
-- GitHub: https://github.com/<your-username>
-- LinkedIn: https://linkedin.com/in/<your-linkedin>
+- GitHub: https://github.com/lyneshia
+- LinkedIn: https://www.linkedin.com/in/lyneshia-correa-777b8720b
 
 ---
 
