@@ -50,7 +50,10 @@ Credit-Risk-Prediction/
 │
 ├── notebooks/
 │   └── Credit_Risk_Prediction.ipynb
-│
+|
+├── images/
+│   └── Homepage.png
+│   └── Result.png
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -165,8 +168,13 @@ Run the application
 ```bash
 streamlit run app/main.py
 ```
+---
+## Application Preview
 
+![Home Page](images/Homepage.png)
+![Result](images/Result.png)
 
+___
 ## 📌 Future Improvements
 
 - XGBoost and LightGBM comparison
